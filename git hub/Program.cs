@@ -12,6 +12,8 @@ namespace git_hub
         {
 
             Console.WriteLine("Tova e purvi test s GitHub");
+            int name = 10;
+             name = int.Parse(Console.ReadLine());
 
 
         }
